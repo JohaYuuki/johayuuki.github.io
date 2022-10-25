@@ -63,11 +63,11 @@
 
                     <ul class="nav navbar-nav navbar-right">
 
-                        <li class="page-scroll"><a href="#hero">Home</a></li>
-                        <li class="page-scroll"><a href="#about">About</a></li>
-                        <li class="page-scroll"><a href="#service">Service</a></li>
+                        <li class="page-scroll"><a href="#hero">Inicio</a></li>
+                        <li class="page-scroll"><a href="#about">Sobre mi</a></li>
+                        <li class="page-scroll"><a href="#service">Servicio</a></li>
                         <li class="page-scroll"><a href="#portfolio">Portfolio</a></li>
-                        <li class="page-scroll"><a href="#contact">Contact</a></li>
+                        <li class="page-scroll"><a href="#contact">Contacto</a></li>
                         
                     </ul><!-- /.navbar-nav -->
 
@@ -85,9 +85,9 @@
                     <h1>Alex Vidal</h1>
                     <div class="page-scroll">
                         <p class="job-title">Full Stack Developer</p>
-                        <a href="#contact" class="btn btn-fill ">Hire me</a>
+                        <a href="#contact" class="btn btn-fill ">Contrate me</a>
                         <div class="clearfix visible-xxs"></div>
-                        <a href="#portfolio" class="btn btn-border">Explore more</a>
+                        <a href="#portfolio" class="btn btn-border">Ver más</a>
                     </div>
                 </div>
             
@@ -107,8 +107,8 @@
                     <div class="col-md-6 col-md-offset-3">
                         <h2>About</h2>
                         <img src="assets/img/lines.svg" class="img-lines" alt="lines">
-                        <p>Hello! I'm Alex, a full stuck developer, a Ruby enthusiast, and a guy slighty obsessed for code quality. Also I'm a co-founder of pykod.com. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p>
-                        <a href="http://www.grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf" class="btn btn-fill" target="_blank" download>Download my cv</a>
+                        <p>Hello! I'm Johanna, a full stuck developer, a Ruby enthusiast, and a girl slighty obsessed for code quality. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.</p>
+                        <a href="http://www.grad.illinois.edu/sites/default/files/pdfs/cvsamples.pdf" class="btn btn-fill" target="_blank" download>Descarga mi CV</a>
                     </div>
                 </div>
             </div>
@@ -117,7 +117,7 @@
         <section class="site-section section-skills">
             <div class="container">
                 <div class="text-center">
-                    <h3>My Skills</h3>
+                    <h3>Mis Habilidaades</h3>
                     <img src="assets/img/lines.svg" class="img-lines" alt="lines">
                 </div>
                 <div class="row">
