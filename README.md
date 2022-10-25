@@ -7,11 +7,11 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>PortfolioPerfect</title>
+    <title>PortfolioJohanna</title>
 
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="Portfolio de Johanna">
+    <meta name="author" content="Johanna Yépez">
+    <meta name="keywords" content="portfolio, webdesign">
 
     <!-- Mobile Specific Metas
     ================================================== -->
